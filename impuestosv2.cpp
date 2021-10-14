@@ -14,7 +14,7 @@ int main() {
 		//"cajones" variables para guardar la informacion que necistamos para almacenar y mostrar en nuestro programa
 		
 		
-		double salario_neto, salario_bruto, social, retencion, cotizacion, comunes, desempleo;
+		doublee salario_neto, salario_bruto, social, retencion, cotizacion, comunes, desempleo;
 		
 	
 		// "cajones" para guardar la informacion que pedimos al cliente y profundizar mas en el programa
